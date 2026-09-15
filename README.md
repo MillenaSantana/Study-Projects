@@ -16,4 +16,4 @@ def ler_codigo_barras():
     return input("Passe o código de barras: ").strip()
 ```
 
-[Ver código completo](./Python/Mercadinho-Santana/SistemaEVMS.py)
+[Ver código completo](SistemaEVMS.py)
