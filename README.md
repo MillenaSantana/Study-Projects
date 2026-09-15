@@ -1,3 +1,25 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=200&section=header&text=STUDY%20PROJECTS&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50"/>
+
+</div>
+
+<div align="center">
+
+### Estudos, exercícios e projetos desenvolvidos durante minha evolução em tecnologia.
+
+</div>
+
+---
+
+## Tecnologias
+
+`Logic` `HTML` `CSS` `JavaScript` `Python`
+
+---
+
+## Projetos
+
 ## Python — Mercadinho Santana
 
 Projeto desenvolvido durante meus estudos de Python e banco de dados.
